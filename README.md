@@ -1,10 +1,18 @@
-# AMD-steamAccounts
+# SteamDBCrawler
+
+## Release
+
+### Latests
+Download: [SteamDBCrawler11_27_2020_1.zip](https://github.com/YuudachiXMMY/steamAccountAnalysis/files/5700996/SteamDBCrawler11_27_2020_1.zip)
 
 ## How to use this program:
 
 ### Pre-Requisite
 1. Make sure you've installed the latest Python 3;
 2. Make sure Python 3 and pip have been added to the system environment.
+
+### Unpacking:
+I recommend using 7zip to extract the main contents of this program.
 
 ### Run program:
 1. *open cmd* or other terminal;
