@@ -1,9 +1,11 @@
 # SteamDBCrawler
 
+[![Latest Release - Downloads](https://img.shields.io/github/downloads/YuudachiXMMY/steamAccountAnalysis/11_27_2020_1/total)](https://github.com/YuudachiXMMY/steamAccountAnalysis/releases/tag/11_27_2020_1)
+
 ## Release
 
 ### Latests
-Download: [SteamDBCrawler11_27_2020_1.zip](https://github.com/YuudachiXMMY/steamAccountAnalysis/files/5700996/SteamDBCrawler11_27_2020_1.zip)
+Download: [SteamDBCrawler11_27_2020_1.zip](https://github.com/YuudachiXMMY/steamAccountAnalysis/releases/tag/11_27_2020_1)
 
 ## How to use this program:
 
